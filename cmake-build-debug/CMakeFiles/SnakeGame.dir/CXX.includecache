@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wz/CppND-Capstone-Snake-Game/src/Score.cpp
+Score.h
+/home/wz/CppND-Capstone-Snake-Game/src/Score.h
+iostream
+-
+sstream
+-
+
+/home/wz/CppND-Capstone-Snake-Game/src/Score.h
+fstream
+-
+string
+-
+

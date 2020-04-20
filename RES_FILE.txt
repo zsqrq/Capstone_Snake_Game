@@ -1,0 +1,2 @@
+Player-Score-Size
+Player name: wz, Player score: 1 and snake size: 2
